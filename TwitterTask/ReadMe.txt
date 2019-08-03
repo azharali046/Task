@@ -16,3 +16,5 @@
          http://127.0.0.1:8000/tweets/HASHTAG?limit=10
          limit is by default an optional parameter by default
          it's value is set to 30
+8: For testcases kindly use tests.py file inside api app. I wrote 2 tests for these 2 api's and to run test use command
+    python manage.py test api.tests
